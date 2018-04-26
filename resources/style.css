@@ -1,0 +1,9 @@
+body {
+    background: black;
+    font-family:sans-serif;
+    color: white;
+    text-align: center
+}
+div{color:#939694; font-size: 10px}
+#copy {text-align: right}
+a{font-size: 10px; color:#42f4f1; text-decoration: none}
