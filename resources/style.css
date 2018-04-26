@@ -1,9 +1,5 @@
-body {
-    background: black;
-    font-family:sans-serif;
-    color: white;
-    text-align: center
-}
-div{color:#939694; font-size: 10px}
-#copy {text-align: right}
+body {background: #181918; font-family:sans-serif; color: white;}
+#desc {color:#939694; font-size: 10px}
+#copy {text-align: right; color:#939694;font-size: 10px}
+#content{width: 40%; margin: auto; background: black; text-align: center}
 a{font-size: 10px; color:#42f4f1; text-decoration: none}
